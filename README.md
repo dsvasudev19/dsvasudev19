@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Developer
 - 📫 How to reach me https://vasudevds1729.wixsite.com/dsvasudev-me
+- Exploring DSA
 
 <!---
 dsvasudev19/dsvasudev19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
