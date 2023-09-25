@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsvasudev19
 - 👀 Enthusiast in Coding and Learning new Technologies
 - 🌟Passionate towards making Automation Projects
-- 🌱 Aspiring Full Stack Developer
+- 🌱 Aspiring Software Developer
 - 💞️ I’m looking to collaborate on Full Stack Developer
 
 <!---
