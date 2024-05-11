@@ -23,6 +23,7 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
   ![NodeJs](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
   ![ExpressJs](https://img.shields.io/badge/-Express.js-787878?logo=express.js&logoColor=white)
   ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
