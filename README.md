@@ -85,4 +85,5 @@ I’m excited to explore collaboration on a variety of projects and initiatives!
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsvasudev19" alt="dsvasudev19"/></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dsvasudev19&theme=onedark&column=-1)](https://github.com/dsvasudev19/github-profile-trophy)
+
