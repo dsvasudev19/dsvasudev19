@@ -57,7 +57,7 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
 </a>
 </p>
 
----
+
 
 ### 🤝 Collaboration Opportunities
 
@@ -83,3 +83,6 @@ I’m excited to explore collaboration on a variety of projects and initiatives!
 <a href="https://www.linkedin.com/in/darseshikarivasudev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-darseshikarivasudev-blue"></a>
 <a href="https://www.instagram.com/ds.vasudev/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-ds.vasudev-red"></a>
 </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsvasudev19" alt="dsvasudev19"/></a></p>
