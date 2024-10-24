@@ -13,32 +13,40 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
 ---
 
 ### 🛠 &nbsp;Languages and Tools
-
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
-  ![Java](https://img.shields.io/badge/-Java-F89820?logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![NodeJs](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
-  ![ExpressJs](https://img.shields.io/badge/-Express.js-787878?logo=express.js&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) 
   ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  
+  ![Java](https://img.shields.io/badge/-Java-F89820?logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+  ![NodeJs](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
+  
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)  
+  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean) 
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+ 
   
-
 ### Other Languages and Technologies I know
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -51,8 +59,24 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
 
 ---
 
-### 🤝🏻 &nbsp;Let's connect 👨‍💻 and forge the future together.😁✌
+### 🤝 Collaboration Opportunities
 
+I’m excited to explore collaboration on a variety of projects and initiatives! If you’re seeking a partner in any of the following areas, I would love to hear from you:
+
+- **🌐 Web Applications**  
+  Crafting dynamic and user-friendly web solutions tailored to your needs.
+
+- **📱 Mobile Applications**  
+  Developing cross-platform applications that ensure a seamless user experience across devices.
+
+- **💼 Freelance Opportunities**  
+  Offering my expertise for hire on innovative and exciting projects.
+
+- **🌍 Open Source Contributions**  
+  Actively contributing to and supporting open source projects to uplift the community and foster collaboration.
+
+🤝🏻Let’s connect 👨‍💻 and create something amazing together! ✨
+-----
 
 <p align="center">
 <a href="https://dsvasudev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/portfolio-dsvasudev-green"></a>
