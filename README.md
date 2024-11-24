@@ -8,7 +8,7 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
 - 🔭 I’m planning for a Project **EventEase: Your all-in-one solution for effortless event management, from start to finish.**.
 - 🌱 &nbsp; Learning more about Entrepreneurship, DevOps, and Algorithms.
 - 💬 Ask me about Full Stack Development, DSA, and any Tech-related stuff.
-- 👯 I’m looking to collaborate for a Flutter and Web development Projects.
+- 👯 I’m looking to collaborate for a Android and Web development Projects.
 
 ---
 
