@@ -1,54 +1,71 @@
-## Hi 👋
-# Iam Vasudev Darse Shikari.
+# Hi 👋, I'm Vasudev Darse Shikari
 
-### 👨🏻‍💻 &nbsp;About Me
+**Full-Stack Engineer · Distributed Systems · Agentic AI Builder** 🤖
 
-I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate about crafting innovative solutions to real-world challenges, while also exploring the realm of DevOps to streamline development processes and enhance product delivery with automation and continuous integration. :wink:
+> I build scalable platforms and the AI agents that work inside them: LangChain, LangGraph, RAG and MCP.
 
-- 🔭 I’m planning for a Project **EventEase: Your all-in-one solution for effortless event management, from start to finish.**.
-- 🌱 &nbsp; Learning more about Entrepreneurship, DevOps, and Algorithms.
-- 💬 Ask me about Full Stack Development, DSA, and any Tech-related stuff.
-- 👯 I’m looking to collaborate for a Android and Web development Projects.
+### 👨🏻‍💻 About Me
+
+Software Engineer with **3+ years** of experience building scalable software for **FinTech and SaaS** products, from backend services to web and mobile apps. I also build **Agentic AI** systems: AI agents that plan, use tools and get real work done inside a product.
+
+- 🏢 Full Stack Engineer at **Kupa Inc**, Hyderabad (Remote), India
+- ⚡ Shipped: a company-wide event-driven notification service, automated app-store releases (80% less manual work) and AI-assisted dev workflows with MCP
+- 🎯 **Open to:** Full Stack, Backend and AI Engineer roles, plus freelance projects
+- 💬 Ask me about: Full Stack development, Microservices, Agentic AI, DSA
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) 
-  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  
-  ![Java](https://img.shields.io/badge/-Java-F89820?logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-  ![NodeJs](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
-  
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean) 
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-  
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
- 
-  
-### Other Languages and Technologies I know
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+### 🚀 What I'm Building
 
-### ⚙️ &nbsp;GitHub Analytics
+| Project | What it is |
+|---|---|
+| 🧠 [**CORE**: Cross Operational Resource Engine](https://core.dsvasudev.in) | A B2B platform that runs a company's day-to-day operations in one place, for startups up to mid-sized companies, with AI agents built in. |
+| 🏫 **DigiSchool** | A multi-tenant school platform that gives rural schools modern tech and a safe, controlled AI environment for students. |
+| 🔌 [**MCP Connector**](https://ai.dsvasudev.in) | A live MCP server that lets AI assistants read my profile and book time with me. |
+| 🤖 [**Agentic Portfolio**](https://dsvasudev.in) | My portfolio site, where you can explore my work and talk to an AI that knows it. |
+
+---
+
+### 🛠 Tech Stack
+
+**Backend & Languages**
+
+![Java](https://img.shields.io/badge/-Java-F89820?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Cloud, DevOps & AI**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=flat)
+
+---
+
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/dsvasudev19">
@@ -57,33 +74,15 @@ I'm a <span text="green">Full-stack Mobile and Web Developer</span> passionate a
 </a>
 </p>
 
+---
 
+### 🤝 Let's Work Together
 
-### 🤝 Collaboration Opportunities
-
-I’m excited to explore collaboration on a variety of projects and initiatives! If you’re seeking a partner in any of the following areas, I would love to hear from you:
-
-- **🌐 Web Applications**  
-  Crafting dynamic and user-friendly web solutions tailored to your needs.
-
-- **📱 Mobile Applications**  
-  Developing cross-platform applications that ensure a seamless user experience across devices.
-
-- **💼 Freelance Opportunities**  
-  Offering my expertise for hire on innovative and exciting projects.
-
-- **🌍 Open Source Contributions**  
-  Actively contributing to and supporting open source projects to uplift the community and foster collaboration.
-
-🤝🏻Let’s connect 👨‍💻 and create something amazing together! ✨
------
+Web apps, mobile apps, AI agents, freelance projects or open source. If you have something interesting, I'd love to hear about it. ✨
 
 <p align="center">
-<a href="https://dsvasudev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/portfolio-dsvasudev-green"></a>
+<a href="https://dsvasudev.in"><img alt="Website" src="https://img.shields.io/badge/portfolio-dsvasudev.in-green"></a>
 <a href="https://www.linkedin.com/in/darseshikarivasudev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-darseshikarivasudev-blue"></a>
-<a href="https://www.instagram.com/ds.vasudev/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-ds.vasudev-red"></a>
+<a href="mailto:vasudevds1729@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-vasudevds1729-red?logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/ds.vasudev/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-ds.vasudev-purple"></a>
 </p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dsvasudev19&theme=onedark&column=-1)](https://github.com/dsvasudev19/github-profile-trophy)
-
